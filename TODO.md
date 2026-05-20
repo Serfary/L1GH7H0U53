@@ -1,5 +1,13 @@
-- Create files/folders
-    - README.md
-- Outline planned contents
-    - Badge
-    - Code
+- B4DG3
+    - C0D3
+    - 1M4G35
+    - 71M1NG.md
+    - P4773RN5.md
+    - M3M0RY.md
+    - D3741L5.md
+    - M47H.md
+    - MU51C.md
+- KN0WL3DG3B453
+    - M37H0D0L0GY.md
+    - R350URC35.md
+    - L4B_GU1D35
