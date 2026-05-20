@@ -1,0 +1,5 @@
+- Create files/folders
+    - README.md
+- Outline planned contents
+    - Badge
+    - Code
