@@ -10,7 +10,9 @@ Solve puzzles to unlock additional areas of the Lighthouse. Challenges reward Fl
 
 -   Curiosity
 -   Observation
--   Analysis
+-   AnalysisFront | Back
+:-:|:-:
+![](B4DG3/1M4G35/Front.png)  |  ![](B4DG3/1M4G35/Back.png)
 -   Problem Solving
 
 ### Controls
@@ -18,6 +20,11 @@ Solve puzzles to unlock additional areas of the Lighthouse. Challenges reward Fl
 -   Left: Blue / 0
 -   Right: Purple / 1
 -   Left + Right: Start Puzzle
+
+### Silkscreen
+Front | Back
+:-:|:-:
+![](B4DG3/1M4G35/Front.png)  |  ![](B4DG3/1M4G35/Back.png)
 
 ## Puzzles
 
