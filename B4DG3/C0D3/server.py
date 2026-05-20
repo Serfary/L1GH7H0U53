@@ -8,7 +8,7 @@ log.setLevel(logging.ERROR)
 class Serfary_Server():
     def __init__(self,flag,download_file):
         self.app = Flask(__name__)
-        self.app.secret_key = 'BSides_Maine_2026'
+        self.app.secret_key = 'FL4G_H4RDC0D3D_53CR375'
         self.server = None
         self.thread = None
         self.stop_event = threading.Event()
