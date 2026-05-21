@@ -25,11 +25,12 @@ Navigate your BSides Maine Badge through colors, patterns, and code. Curiosity w
 
 ## Puzzles
 
+-   [CUR10517Y](B4DG3/PUZZL35/CUR10517Y.md)
 -   [71M1NG](B4DG3/PUZZL35/71M1NG.md)
 -   [P4773RN5](B4DG3/PUZZL35/P4773RN5.md)
 -   [M3M0RY](B4DG3/PUZZL35/M3M0RY.md)
 -   [D3741L5](B4DG3/PUZZL35/D3741L5.md)
 -   [M47H](B4DG3/PUZZL35/M47H.md)
--   [GR0UND3D](B4DG3/PUZZL35/GR0UND3D.md)
+-   [4D4P7](B4DG3/PUZZL35/4D4P7.md)
 -   [MU51C](B4DG3/PUZZL35/MU51C.md)
 

@@ -1,6 +1,15 @@
 - KN0WL3DG3B453
     - D3M0_L4B5
         - GU1D35
+            - RF1D_B4DG35.md
+            - L0CKP1CK1NG.md
+            - H4RDW4R3.md
+            - W1R3L355.md
+            - R4D10.md
+            - PHY51C4L_BYP455.md
+            - B4D_U5B.md
+            - H45H_CR4CK1NG.md
         - 5CR1P75
+            - 5Y573M_R3570R3
     - M37H0D0L0GY.md
     - R350URC35.md
