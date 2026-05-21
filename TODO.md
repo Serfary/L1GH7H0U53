@@ -1,9 +1,3 @@
-- B4DG3
-    - PUZZL35
-        - D3741L5.md
-        - M47H.md
-        - GR0UND3D.md
-        - MU51C.md
 - KN0WL3DG3B453
     - D3M0_L4B5
         - GU1D35

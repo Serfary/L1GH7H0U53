@@ -30,6 +30,6 @@ Navigate your BSides Maine Badge through colors, patterns, and code. Curiosity w
 -   [M3M0RY](B4DG3/PUZZL35/M3M0RY.md)
 -   [D3741L5](B4DG3/PUZZL35/D3741L5.md)
 -   [M47H](B4DG3/PUZZL35/M47H.md)
--   [GR0UND3D](B4DG3/PUZZL35/M47H.md)
+-   [GR0UND3D](B4DG3/PUZZL35/GR0UND3D.md)
 -   [MU51C](B4DG3/PUZZL35/MU51C.md)
 
