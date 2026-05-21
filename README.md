@@ -1,4 +1,4 @@
-# L1GH7H0U53
+# W3LC0M3 70 7H3 L1GH7H0U53
 
 Navigate your BSides Maine Badge through colors, patterns, and code. Curiosity will be rewarded with the tools you need to succeed.
 

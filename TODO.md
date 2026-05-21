@@ -1,15 +1,11 @@
 - B4DG3
-    - 1M4G35
-        - Silkscreens
-    - G3RB3R
-        - Add pcb files
     - PUZZL35
         - D3741L5.md
         - M47H.md
         - GR0UND3D.md
         - MU51C.md
 - KN0WL3DG3B453
-    - D3M0_L4B
+    - D3M0_L4B5
         - GU1D35
         - 5CR1P75
     - M37H0D0L0GY.md

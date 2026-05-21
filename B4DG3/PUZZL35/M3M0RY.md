@@ -2,7 +2,7 @@
 ## Overview
 Where did I put that code....
 
-Can you figure out the combination to unlock the lighthouse?
+Can you unlock the lighthouse?
 
 ## Details
 - White signals user for input
@@ -11,4 +11,5 @@ Can you figure out the combination to unlock the lighthouse?
 
 ## Testing Notes
 - Does the combination change?
-- How many button presses are likely needed?
+- Track inputs for pass/fail data
+- Are there any timings or patterns here?
