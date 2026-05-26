@@ -1,11 +1,53 @@
 - KN0WL3DG3B453
+    - R350URC35
+        - 700L5
+        - W0RDL1575
+        - L1NK5.md
     - 051N7.md
     - RF1D_B4DG35.md
+        - Proxmark3 Easy & PM3
+        - Identifying RFID frequencies
+        - Different Card Types
+        - Read & Writing data
     - L0CKP1CK1NG.md
+        - Common Lock Types
+        - Lock Picking Techniques
     - H4RDW4R3.md
+        - Basic Circuit Design & Components
+            - Terminology
+            - Drawings
+            - Usage
+        - Identifying & Connecting to UART
+            - Pin Grouping
+            - VCC, TX, RX, and GND
+            - Connecting to UART
+                - Windows / Mac / Linux
     - W1R3L355.md
     - PHY51C4L.md
     - B4D_U5B.md
     - H45H_CR4CK1NG.md
-    - R350URC35.md
-
+- Configure lab stations
+    - RFID
+        - Demo: RFID blockers vs long-range & multiclass cloners
+            - Setup
+                - Readers
+                - Laptop
+                - Projector
+            - Scripts
+                - Update MC to connect to CMCF
+                - Add POST to API for Card List
+        - Lab: Cloning cards and opening locks
+            - Setup
+                - 2x Stations (Pi / Monitor / Keyboard)
+    - Hardware
+        - Demo: Wink Smart Hub Root Shell
+        - Labs:
+            - Circuit analysis & troubleshooting
+                - Setup
+                    - Jumpers
+                    - 4x Broken Badges
+            - Identifying & connecting to UART
+                - Setup
+                    - 2x Stations (Pi / Monitor / Keyboard)
+                    - 2-3x Multimeters
+                    - 3x UART tools
