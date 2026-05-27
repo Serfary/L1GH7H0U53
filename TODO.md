@@ -51,3 +51,10 @@
                     - 2x Stations (Pi / Monitor / Keyboard)
                     - 2-3x Multimeters
                     - 3x UART tools
+    - BadUSB
+        - Demo: Keystroke Injection
+            - Setup
+                - 5x BadUSB Cables
+            - Scripts
+                - RFID: Clone unique badge
+                - Hash Cracking: Crack unique hash
