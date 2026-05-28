@@ -72,6 +72,7 @@
                 - Install Git
                 - Install Hashcat
                 - Install PM3
+                - Install Screen
                 - Clone Repo
     - RFID
         - Demo: RFID blockers vs long-range & multiclass cloners
@@ -83,21 +84,21 @@
                 - Update MC to connect to CMCF
                 - Add POST to API for Card List
         - Labs:
-            - Identifying RFID frequencies & card types
+            - 1: Identifying RFID frequencies & card types
                 - Setup
                     - Proxgrind
-            - Cloning cards and opening locks
+            - 2: Cloning cards and opening locks
                 - Setup
                     - 2x Stations (Pi / Monitor / Keyboard)
                     - 2x Proxmark3 Easy
     - Hardware
         - Demo: Wink Smart Hub Root Shell
         - Labs:
-            - Circuit analysis & troubleshooting
+            - 1: Circuit analysis & troubleshooting
                 - Setup
                     - Jumpers
                     - 4x Broken Badges
-            - Identifying & connecting to UART
+            - 2: Identifying & connecting to UART
                 - Setup
                     - 2x Stations (Pi / Monitor / Keyboard)
                     - 2-3x Multimeters
@@ -106,12 +107,12 @@
         - Setup
             - 2x Stations (Pi / Monitor / Keyboard)
         - Labs:
-            - MD5 & Bruteforce Attacks
+            - 1: MD5 & Bruteforce Attacks
                 - Setup
                     - Generate MD5 hashes
                         - 4-6 characters
                         - Uppercase, lowercase, numbers, combined
-            - Hash Extraction & Dictionary Attacks
+            - 2: Hash Extraction & Dictionary Attacks
                 - Setup
                     - Generate encrypted file
                     - zip2john
@@ -128,11 +129,13 @@
             - Setup
                 - 5x BadUSB Cables
                 - Color Coded Markings
+                - Nethunter
             - Scripts
-                - 4x Example payloads
-                    - Practical Joke
-                    - Mouse Jiggler
-                    - Stealing secrets
-                    - Gaining Access
-                - 1x Station Reset payload
-                    - Restore Hash Cracking Environment
+                - 3x Example payloads
+                    - Pre-auth: Mouse Jiggler
+                    - Auth: Stealing secrets
+                    - Post-auth: Remote Access
+                - 2x Station payloads
+                    - Smart hub root shell
+                    - Restore hash cracking environment
+                    
