@@ -8,5 +8,6 @@ then
     sleep 5
     sudo -u serfary git -C /home/serfary/L1GH7H0U53 fetch --all
     sudo -u serfary git -C /home/serfary/L1GH7H0U53 reset --hard origin/main
+    sudo -u serfary git -C /home/serfary/L1GH7H0U53 clean -fd
     sudo -u serfary git -C /home/serfary/L1GH7H0U53 pull
 fi
