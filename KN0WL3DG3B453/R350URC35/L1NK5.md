@@ -12,7 +12,6 @@
 - [Arduino IDE (BadUSB)](https://www.arduino.cc/en/software/)
 - [DigiSpark (BadUSB)](https://github.com/digistump/DigistumpArduino)
 - [Hashcat (Hash Cracking)](https://hashcat.net/hashcat/)
-- [zip2john (Hash Cracking)](https://github.com/openwall/john)
 - [Wireshark (Network Traffic)](https://www.wireshark.org/)
 - [Meshtastic Web Flasher (Radio)](https://flasher.meshtastic.org/)
 - [WiGLE (Wardriving)](https://wigle.net/)
