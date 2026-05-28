@@ -81,9 +81,6 @@
                 - Readers
                 - RPi400
                 - Projector
-            - Scripts
-                - Update MC to connect to CMCF
-                - Add POST to API for Card List
         - Labs:
             - 1: Identifying RFID frequencies & card types
                 - Setup

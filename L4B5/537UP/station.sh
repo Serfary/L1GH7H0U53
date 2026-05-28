@@ -1,5 +1,5 @@
-apt update
-apt install git hashcat screen fcrackzip qtbase5-dev -y
+sudo apt update
+sudo apt install git hashcat screen fcrackzip qtbase5-dev -y
 if [ -d "L1GH7H0U53" ]; then
     git -C "L1GH7H0U53" pull
 else
