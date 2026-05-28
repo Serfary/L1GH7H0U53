@@ -6,5 +6,7 @@ then
     sleep 5
     sudo ip link set wlan0 up
     sleep 5
+    git -C /home/serfary/L1GH7H0U53 fetch --all
+    git -C /home/serfary/L1GH7H0U53 reset --hard origin/main
     git -C /home/serfary/L1GH7H0U53 pull
 fi
