@@ -5,4 +5,6 @@ then
     sudo ip link set wlan0 down
     sleep 5
     sudo ip link set wlan0 up
+    sleep 5
+    git -C /home/serfary/L1GH7H0U53 pull
 fi
