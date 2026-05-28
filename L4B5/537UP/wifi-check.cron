@@ -1,2 +1,1 @@
-*  *  *  *  *  root  flock -x -n -E 0 /tmp/wifi-check.lock env PING_TARGET=192.168.1.1 WLAN_IF=wlan0 /usr/local/bin/wifi-check.sh
-
+* * * * * /home/serfary/L1GH7H0U53/L4B5/537UP/wifi-check.sh >/dev/null 2>&1

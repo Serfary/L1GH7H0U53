@@ -73,6 +73,7 @@
                 - Install Hashcat
                 - Install PM3
                 - Install Screen
+                - Install Fcrackzip
                 - Clone Repo
     - RFID
         - Demo: RFID blockers vs long-range & multiclass cloners
@@ -115,7 +116,7 @@
             - 2: Hash Extraction & Dictionary Attacks
                 - Setup
                     - Generate encrypted file
-                    - zip2john
+                    - fcrackzip
     - Physical
         - Demo: Bypass Tools
             - Shove Tools
