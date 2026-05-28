@@ -4,14 +4,24 @@
         - W0RDL1575
         - L1NK5.md
     - 051N7.md
+        - Common Use Cases
+        - Sources of Information
+            - LinkedIn
+            - Github
+            - YouTube
+            - Reddit
+            - Discord
+            - Public Inboxes
+            - Internet Archives
     - RF1D_B4DG35.md
-        - Proxmark3 Easy & PM3
-        - Identifying RFID frequencies
-        - Different Card Types
-        - Read & Writing data
+        - Device Introduction
+            - Proxmark3 Easy
+            - Proxgrind
+        - PM3 Commands
+            - Reading Different Card Types
+            - Writing data
     - L0CKP1CK1NG.md
-        - Common Lock Types
-        - Lock Picking Techniques
+        - TOOOL
     - H4RDW4R3.md
         - Basic Circuit Design & Components
             - Terminology
@@ -23,22 +33,63 @@
             - Connecting to UART
                 - Windows / Mac / Linux
     - W1R3L355.md
+        - FragileDuck
+    - R4D10.md
+        - Maine Mesh
     - PHY51C4L.md
+        - Common Weaknesses
+        - Tool Overview
+            - Shove Tools
+            - Under / Over-Door Tools
+            - Master / Bump Keys
+            - Crashbar / Thumb-Turner Tool
+            - Kinetic Tools
     - B4D_U5B.md
+        - Linux Command Review
+            - User Home
+            - Changing Directories
+            - Listing Files / Folders
+            - Reading File Content
+        - Digispark Commands
+            - Sending Keystrokes
+            - Printing Strings
+            - Delays / Loops
     - H45H_CR4CK1NG.md
+        - Common Tools
+        - Attack Types
+        - Wordlists
 - Configure lab stations
+    - Base Stations
+        - Hardware
+            - RPi400
+            - 8x RPi Zero 2W
+        - Extra
+            - 8x HDMI Adapters
+            - 8x USB Adapters
+            - 10x SD Cards
+        - Scripts
+            - Setup.sh
+                - Install Git
+                - Install Hashcat
+                - Install PM3
+                - Clone Repo
     - RFID
         - Demo: RFID blockers vs long-range & multiclass cloners
             - Setup
                 - Readers
-                - Laptop
+                - RPi400
                 - Projector
             - Scripts
                 - Update MC to connect to CMCF
                 - Add POST to API for Card List
-        - Lab: Cloning cards and opening locks
-            - Setup
-                - 2x Stations (Pi / Monitor / Keyboard)
+        - Labs:
+            - Identifying RFID frequencies & card types
+                - Setup
+                    - Proxgrind
+            - Cloning cards and opening locks
+                - Setup
+                    - 2x Stations (Pi / Monitor / Keyboard)
+                    - 2x Proxmark3 Easy
     - Hardware
         - Demo: Wink Smart Hub Root Shell
         - Labs:
@@ -50,11 +101,38 @@
                 - Setup
                     - 2x Stations (Pi / Monitor / Keyboard)
                     - 2-3x Multimeters
-                    - 3x UART tools
+                    - UART tools
+    - Hash Cracking
+        - Setup
+            - 2x Stations (Pi / Monitor / Keyboard)
+        - Labs:
+            - MD5 & Bruteforce Attacks
+                - Setup
+                    - Generate MD5 hashes
+                        - 4-6 characters
+                        - Uppercase, lowercase, numbers, combined
+            - Hash Extraction & Dictionary Attacks
+                - Setup
+                    - Generate encrypted file
+                    - zip2john
+    - Physical
+        - Demo: Bypass Tools
+            - Shove Tools
+            - Under / Over-Door Tools
+            - Master / Bump Keys
+            - Crashbar / Thumb-Turner Tool
+            - Kinetic Tools
+            - Fence Climbers
     - BadUSB
         - Demo: Keystroke Injection
             - Setup
                 - 5x BadUSB Cables
+                - Color Coded Markings
             - Scripts
-                - RFID: Clone unique badge
-                - Hash Cracking: Crack unique hash
+                - 4x Example payloads
+                    - Practical Joke
+                    - Mouse Jiggler
+                    - Stealing secrets
+                    - Gaining Access
+                - 1x Station Reset payload
+                    - Restore Hash Cracking Environment
