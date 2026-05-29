@@ -28,7 +28,7 @@ RFID Badges are a common form of authentication granting access to everything fr
 #### Writing Card Data
 
 1. Replace the Low-Frequency Tag with a T5577 on the reader
-    - This card type is rewriteable with the ability to emulate multiple different formats
+    - This card type is rewritable with the ability to emulate multiple different formats
 2. Reference the **chipset** information to build the cloning command
     - `lf {chipset} clone --help` will provide examples of valid parameters
     - HID for example will use **Raw Data** `lf hid clone -r {raw data}`

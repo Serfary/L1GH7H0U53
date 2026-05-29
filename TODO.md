@@ -59,46 +59,23 @@
         - Attack Types
         - Wordlists
 - Configure lab stations
-    - RFID
-        - Demo: RFID blockers vs long-range & multiclass cloners
-        - Labs:
-            - 2: Cloning cards and opening locks
     - Hardware
         - Demo: Wink Smart Hub Root Shell
         - Labs:
             - 1: Circuit analysis & troubleshooting
             - 2: Identifying & connecting to UART
     - Hash Cracking
-        - Labs:
+        - Labs
             - 1: MD5 & Bruteforce Attacks
-                - Setup
-                    - Generate MD5 hashes
-                        - 4-6 characters
-                        - Uppercase, lowercase, numbers, combined
             - 2: Encrpted Files & Dictionary Attacks
-                - Setup
-                    - Generate encrypted file
-                    - fcrackzip
-    - Physical
-        - Demo: Bypass Tools
-            - Shove Tools
-            - Under / Over-Door Tools
-            - Master / Bump Keys
-            - Crashbar / Thumb-Turner Tool
-            - Kinetic Tools
-            - Fence Climbers
     - BadUSB
         - Demo: Keystroke Injection
-            - Setup
-                - 5x BadUSB Cables
-                - Color Coded Markings
-                - Nethunter
             - Scripts
-                - 3x Example payloads
+                - 2x Example payloads
                     - Pre-auth: Mouse Jiggler
                     - Auth: Stealing secrets
-                    - Post-auth: Remote Access
                 - 2x Station payloads
                     - Smart hub root shell
-                    - Restore hash cracking environment
-                    
+                    - Hash Generation
+                    - Station Restore
+
