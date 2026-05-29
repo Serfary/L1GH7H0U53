@@ -22,15 +22,15 @@ Using a Radio Frequency Field Detector can reveal information about the reader a
     - Using the `pm3` command
     - `help` will show additional details
 3. Place the Proxgrind tool on the reader
-    - **NO LED** - Indicates no RF fields detected
+    - **No LED** - Indicates no RF fields detected
     - Use the `auto` command to enable the reader
     - Detection tool will respond to the reader testing for all potential tags
 4. Test for Low-Frequency
     - Use `lf search` to set the reader to low-frequency
-    - **RED LED** - Low-Frequency detected
+    - **Red LED** - Low-Frequency detected
 5. Test for High-Frequency
-    - Use `hf search` to set the reader to LF Mode
-    - **WHITE LED** - High-Frequency detected
+    - Use `hf search` to set the reader to high-frequency
+    - **White LED** - High-Frequency detected
 
 #### Identifying Card Types
 
