@@ -74,8 +74,4 @@
                 - 2x Example payloads
                     - Pre-auth: Mouse Jiggler
                     - Auth: Stealing secrets
-                - 2x Station payloads
-                    - Smart hub root shell
-                    - Hash Generation
-                    - Station Restore
 
