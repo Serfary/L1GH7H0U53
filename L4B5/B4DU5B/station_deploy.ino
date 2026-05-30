@@ -12,7 +12,7 @@ void loop() {
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
-  DigiKeyboard.print("cd ~/ && git clone https://github.com/Serfary/L1GH7H0U53.git || git -C L1GH7H0U53 reset --hard origin/main && git -C L1GH7H0U53 clean -fd && git -C L1GH7H0U53 pull");
+  DigiKeyboard.print("cd ~/ && git clone https://github.com/Serfary/L1GH7H0U53.git || git -C L1GH7H0U53 reset --hard origin/main && git -C L1GH7H0U53 clean -fd && git -C L1GH7H0U53 pull && clear");
   DigiKeyboard.delay(500);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   for(;;){}

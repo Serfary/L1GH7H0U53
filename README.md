@@ -2,6 +2,8 @@
 
 Navigate your BSides Maine Badge through colors, patterns, and code. Curiosity will be rewarded with the tools you need to succeed.
 
+Send all flags to serfary@bsidesmaine.org
+
 ![](B4DG3/1M4G35/Lighthouse.jpeg)
 
 ## Overview
