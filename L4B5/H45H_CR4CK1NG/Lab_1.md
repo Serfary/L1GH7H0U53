@@ -14,7 +14,7 @@ We all know the requirements of a good password, but how do each of these elemen
 
 ## Steps
 
-**_Use the BadUSB to generate Lab Environment_**
+_Use the BadUSB to generate Lab Environment_
 
 #### Bruteforcing MD5
 
@@ -28,11 +28,11 @@ We all know the requirements of a good password, but how do each of these elemen
     -   `-a 3 | Brute-force` - Attempts to match hashes by generating all possible combinations of characters
     -   `-m 0 | MD5` - Converts the generated passwords to MD5 for comparison
     -   `hashes.txt` - The path to the hash file
-    -   `-i ?a?a?a?a` -
+    -   `-i ?a?a?a?a` - Generates all character combinations incrementing through 4 characters
 3.  Review the output
-    -   **Time** -
-    -   **Speed** -
-    -   **Recovered** -
+    -   **Time** - The duration of the session
+    -   **Speed** - The number of hashes calculated per second
+    -   **Recovered** - The total number of hashes cracked
 4.  Repeat the attack with different lengths character options
     ```
     ? | Charset
@@ -46,3 +46,14 @@ We all know the requirements of a good password, but how do each of these elemen
     a | ?l?u?d?s
     b | 0x00 - 0xff
     ```
+
+#### Bruteforcing Bcrypt
+
+1.  Modify the previous command to use Bcrypt instead of MD5
+    -   Full Command - `hashcat -a 3 -m 3200 hashes.txt -i ?a?a?a?a`
+    -   `-a 3 | Brute-force` - Attempts to match hashes by generating all possible combinations of characters
+    -   `-m 3200 | Bcrypt` - Converts the generated passwords to MD5 for comparison
+    -   `hashes.txt` - The path to the hash file
+    -   `-i ?a?a?a?a` - Generates all character combinations incrementing through 4 characters
+2.  Monitor the progress of the session with `[s]tatus`
+    -   Compare the **speed** of hash generation to MD5
